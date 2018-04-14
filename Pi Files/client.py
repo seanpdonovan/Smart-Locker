@@ -6,7 +6,7 @@ from socket import *
 import time
 
 # set the default ip as what my computer is
-host = "192.168.1.113"
+host = "123.456.7.890"
 
 # can pass another server ip when calling this program
 if len(sys.argv) == 2:
